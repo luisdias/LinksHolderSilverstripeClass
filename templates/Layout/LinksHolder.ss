@@ -2,7 +2,7 @@ $Content
 $Form
 $PageComments
 <% if Links %>
-    <ul>
+    <ul class="ss-links-holder">
     <% control Links %>
         <li><a href="$SiteUrl" target="blank">$SiteName</a></li>
     <% end_control %>
