@@ -1,6 +1,8 @@
 $Content
 $Form
 $PageComments	
+<ul>
 <% control Links %>
-    <a href="$SiteUrl" target="blank">$SiteName</a>
+    <li><a href="$SiteUrl" target="blank">$SiteName</a></li>
 <% end_control %>
+</ul>
