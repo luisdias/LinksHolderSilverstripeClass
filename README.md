@@ -12,8 +12,8 @@ A Page class to hold website links
 https://github.com/luisdias/LinksHolderSilverstripeClass.git
 
 # Usage  
-* Save the LinksHolder into your mysite/code  
-* Save the LinksHolder.ss file into the themes/yourtheme/templates/Layout  
+* Save the LinksHolder into mysite/code folder  
+* Save the LinksHolder.ss file into the themes/yourtheme/templates/Layout folder  
 * Run dev/build and flush  
 * At the CMS create a page of LinksHolder type  
 * At the Links Tab insert websites (name and the url)  
